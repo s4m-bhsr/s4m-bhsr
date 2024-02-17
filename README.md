@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4m-bhsr
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Cloud Computing by joining Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka (Batch 1)
-- 📫 How to reach me https://www.linkedin.com/in/samb974/
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/samb974/), [Instagram](https://www.instagram.com/sam.bhsr_/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Enjoy play variety of games
 
