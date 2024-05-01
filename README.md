@@ -1,5 +1,3 @@
-**Hallo Saya Baru Join Github**
-
 - 👋 Hi, I’m @s4m-bhsr
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Cloud Computing by joining Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka (Batch 1)
