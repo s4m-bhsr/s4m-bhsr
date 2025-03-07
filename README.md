@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @s4m-bhsr
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about Cloud Computing by joining Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka (Batch 1)
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning about Machine Learning by joining Coding Camp 2025 powered by DBS Foundation (Machine Learning Engineer Cohort)
+- 🎓 Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka (Batch 1) Graduate, Cloud Computing Learning Path
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Enjoy playing a variety of games
 
